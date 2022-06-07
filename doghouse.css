@@ -415,10 +415,10 @@ h2 {
 .footer-row {
     height: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .footer-item {
-    width: 14%;
+    
     color: #fff;
 }
 .footer-title p {
